@@ -9,7 +9,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-/node_modules/
+fase02/intro-back-end/node_modules/
+fase03/academy-control/node_modules/
+fase03/persisting-appdata/node_modules/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
