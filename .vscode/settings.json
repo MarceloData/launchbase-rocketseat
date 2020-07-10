@@ -1,0 +1,14 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        ".stylelintrc": "json",
+        ".prettierrc": "json"
+    },
+
+    "[html]": {
+        "editor.formatOnSave": false
+    },
+    "git.ignoreLimitWarning": true
+}
